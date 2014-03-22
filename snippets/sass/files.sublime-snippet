@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+${1:name}: {
+    files: {
+        '${2:css}': '${3:scss}'${4:,}
+    }
+}$0
+]]></content>
+    <tabTrigger>grunt-sass-files</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

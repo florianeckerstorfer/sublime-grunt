@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+${1:name}: {
+    dir: '${2:directory}',
+    options: {
+        ${3:bin: '${4:bin/phpunit}',
+        }${5:configuration: '${6:app/phpunit.xml}',
+        }coverageHtml: '${7:build/coverage}'
+    }
+}$0
+]]></content>
+    <tabTrigger>grunt-phpunit-coverage-html</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

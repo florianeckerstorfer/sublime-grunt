@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+grunt.registerTask('${1:task name}', ['${2:task}'${3:, ${4:more tasks}}]);$0
+]]></content>
+    <tabTrigger>grunt-register</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
