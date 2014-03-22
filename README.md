@@ -30,7 +30,7 @@ Snippets for core functionality of Grunt.
     </thead>
     <tbody>
         <tr>
-            <td>`grunt-register`</td>
+            <td><code>grunt-register</code></td>
             <td>Register task</td>
         </tr>
     </tbody>
@@ -49,15 +49,15 @@ Snippets for [grunt-phpcs](https://github.com/SaschaGalley/grunt-phpcs).
     </thead>
     <tbody>
         <tr>
-            <td>`grunt-phpcs`</td>
+            <td><code>grunt-phpcs</code></td>
             <td>Base template for PHP_CodeSniffer tasks</td>
         </tr>
         <tr>
-            <td>`grunt-phpcs-checkstyle`</td>
+            <td><code>grunt-phpcs-checkstyle</code></td>
             <td>Execute PHP_CodeSniffer</td>
         </tr>
         <tr>
-            <td>`grunt-phpcs-checkstyle-symfony2`</td>
+            <td><code>grunt-phpcs-checkstyle-symfony2</code></td>
             <td>Execute PHP_CodeSniffer with options for Symfony2 projects</td>
         </tr>
     </tbody>
@@ -76,27 +76,27 @@ Snippets for [grunt-phpunit](https://github.com/SaschaGalley/grunt-phpunit).
     </thead>
     <tbody>
         <tr>
-            <td>`grunt-phpunit`</td>
+            <td><code>grunt-phpunit</code></td>
             <td>Base tempplate for PHPUnit tasks</td>
         </tr>
         <tr>
-            <td>`grunt-phpunit-test`</td>
+            <td><code>grunt-phpunit-test</code></td>
             <td>Execute PHPUnit</td>
         </tr>
         <tr>
-            <td>`grunt-phpunit-coverage-clover`</td>
+            <td><code>grunt-phpunit-coverage-clover</code></td>
             <td>Execute PHPUnit code coverage with clover output</td>
         </tr>
         <tr>
-            <td>`grunt-phpunit-coverage-html`</td>
+            <td><code>grunt-phpunit-coverage-html</code></td>
             <td>Execute PHPunit code coverage with HTML output</td>
         </tr>
         <tr>
-            <td>`grunt-phpunit-coverage-php`</td>
+            <td><code>grunt-phpunit-coverage-php</code></td>
             <td>Execute PHPUnit code coverage with serialized PHP output</td>
         </tr>
         <tr>
-            <td>`grunt-phpunit-coverage-text`</td>
+            <td><code>grunt-phpunit-coverage-text</code></td>
             <td>Execute PHPUnit code coverage with text output</td>
         </tr>
     </tbody>
@@ -115,11 +115,11 @@ Snippets for [grunt-sass](https://github.com/sindresorhus/grunt-sass).
     </thead>
     <tbody>
         <tr>
-            <td>`grunt-sass`</td>
+            <td><code>grunt-sass</code></td>
             <td>Base template for Sass tasks</td>
         </tr>
         <tr>
-            <td>`grunt-sass-files`</td>
+            <td><code>grunt-sass-files</code></td>
             <td>Execute Sass with files array</td>
         </tr>
     </tbody>
@@ -138,19 +138,19 @@ Snippets for [grunt-shell](https://www.npmjs.org/package/grunt-shell).
     </thead>
     <tbody>
         <tr>
-            <td>`grunt-shell`</td>
+            <td><code>grunt-shell</code></td>
             <td>Base template for shell tasks</td>
         </tr>
         <tr>
-            <td>`grunt-shell-foe`</td>
+            <td><code>grunt-shell-foe</code></td>
             <td>Execute command and fail on error</td>
         </tr>
         <tr>
-            <td>`grunt-shell-stdout`</td>
+            <td><code>grunt-shell-stdout</code></td>
             <td>Execute command and print to stdout</td>
         </tr>
         <tr>
-            <td>`grunt-shell-stdout-foe`</td>
+            <td><code>grunt-shell-stdout-foe</code></td>
             <td>Execute command and print to stdout and fail on error</td>
         </tr>
     </tbody>
