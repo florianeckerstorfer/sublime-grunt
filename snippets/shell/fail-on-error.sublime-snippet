@@ -5,7 +5,7 @@ ${1:name}: {
     options: {
         failOnError: true
     }
-}$0
+},$0
 ]]></content>
     <tabTrigger>grunt-shell-foe</tabTrigger>
     <scope>source.js</scope>

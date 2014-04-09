@@ -6,7 +6,7 @@ ${1:checkstyle}: {
         bin: '${3:bin/phpcs}',
         standard: '${4:PSR2}'
     }
-}$0
+},$0
 ]]></content>
     <tabTrigger>grunt-phpcs-checkstyle</tabTrigger>
     <scope>source.js</scope>

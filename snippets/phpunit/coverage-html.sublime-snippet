@@ -7,7 +7,7 @@ ${1:name}: {
         }${5:configuration: '${6:app/phpunit.xml}',
         }coverageHtml: '${7:build/coverage}'
     }
-}$0
+},$0
 ]]></content>
     <tabTrigger>grunt-phpunit-coverage-html</tabTrigger>
     <scope>source.js</scope>
